@@ -1,0 +1,17 @@
+5~ Number of worlds
+1 2 3 4 5   ~ transect codes
+36 ~ Number of demes
+2 ~number of zones
+100000 ~ max number of generations
+0.00000001 ~ max change per generation
+0 ~Blank
+0 ~Blank
+0 ~Blank
+0 ~Blank
+0.10 .9 ~border Range
+0 1.2 ~migration Range
+0.4 3 ~fitness range
+1.5 ~ Distance (in km) of first observed population on transect
+0.5 ~ Distance between demes
+4 ~ migDis, code for Migration likelihood distribution. 1=normal, 2=geometric, 3=normal with 9 bins, 4=geometric with 9 bins
+1 1 1 1 1 0 0.05 0.015 0.015 0.02 0.45 0.3 0.2
